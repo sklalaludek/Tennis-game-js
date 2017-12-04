@@ -1,0 +1,7 @@
+body {
+    background: gray;
+}
+#game {
+    display: block;
+    margin: 0 auto;
+}
